@@ -13,6 +13,8 @@ the script will join without audio and without audio so you can keep sleeping
 * Clone this repository
 * Download requirements using `pip install -r requirements.txt`
 * run `python auto.py`
+* have zoom on your computer
+* be signed in on zoom
 
 ## Setup
 * go to `meetings.xlsx` file and add your meetings<br>
