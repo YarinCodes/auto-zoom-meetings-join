@@ -4,8 +4,8 @@
 <br>
 
 ## Automatic Meeting Join
-a simple python script which joins your zoom meeting.<br>
-the script will join without audio and without audio so you can keep sleeping
+a simple python script which joins your zoom meetins which works on image recognition.<br>
+the script will join without audio and without audio so you can keep sleeping.
 
 ## Requirements
 * python 3.6 or higher (https://www.python.org/)
@@ -13,13 +13,13 @@ the script will join without audio and without audio so you can keep sleeping
 * Clone this repository
 * Download requirements using `pip install -r requirements.txt`
 * run `python auto.py`
-* have zoom on your computer
+* have zoom installed on your computer
 * be signed in on zoom
 
 ## Setup
 * go to `meetings.xlsx` file and add your meetings<br>
 ***you have two options:***<br>
-(1) join with meeting link (leave the `Meetting id` and `Meeting Passcode` empty)<br>
-           **or**<br>
-(2) join with meeting id and meeting passcode (leave the `Meetting Link` empty, in case meeting has no passcode leave it empty)<br>
+(1) join only with meeting link (leave the `Meetting id` and `Meeting Passcode` empty)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**or**<br>
+(2) join only with meeting id and meeting passcode (leave the `Meetting Link` empty, in case meeting has no passcode leave it empty)<br>
 * make sure to fill in `auto.py` the `Xl_FILE_PATH` and `ZOOM_PATH`
