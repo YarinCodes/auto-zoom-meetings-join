@@ -3,8 +3,8 @@
 </p>
 <br>
 
-## Automatic Meeting Join
-a simple python script which joins your zoom meetins and works on image recognition.<br>
+## Automatic Meeting Joins
+a simple python script which joins your zoom meetings and works on image recognition.<br>
 the script will join without audio and without audio so you can keep sleeping.
 
 ## Requirements
