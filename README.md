@@ -3,7 +3,7 @@
 </p>
 <br>
 
-## Automatic Meeting Joins
+## Automatic Meetings Joins
 a simple python script which joins your zoom meetings and works on image recognition.<br>
 the script will join without audio and without audio so you can keep sleeping.
 
