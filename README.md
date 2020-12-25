@@ -22,4 +22,5 @@ the script will join without audio and without audio so you can keep sleeping.
 (1) join only with meeting link (leave the `Meetting id` and `Meeting Passcode` empty)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**or**<br>
 (2) join only with meeting id and meeting passcode (leave the `Meetting Link` empty, in case meeting has no passcode leave it empty)<br>
-* make sure to fill in `auto.py` the `Xl_FILE_PATH` and `ZOOM_PATH`
+* make sure to fill in `auto.py` the `Xl_FILE_PATH` and `ZOOM_PATH`<br>
+* make sure to fill the starting time in the xl file in 24:00 format(1PM = 13:00)
